@@ -1,4 +1,4 @@
-# 🚀 Landing Page - Milionário Rápido com IA
+'httpsps Landing Page - Milionário Rápido com IA
 
 ## 📋 Descrição
 
@@ -57,7 +57,7 @@ Desenvolvida com:
 1. Abra o ficheiro `js/script.js`
 2. Procure pela linha:
    ```javascript
-   const HOTMART_LINK = 'https://hotmart.com/pt/marketplace/produtos/seu-link-aqui';
+   const HOTMART_LIN'https://pay.hotmart.com/U103015679I?checkoutMode=10';
    ```
 3. Substitua `seu-link-aqui` pelo seu link real da Hotmart
 4. Salve o ficheiro
