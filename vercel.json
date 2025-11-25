@@ -1,0 +1,11 @@
+{
+  "buildCommand": "echo 'Build realizado com sucesso!'",
+  "outputDirectory": ".",
+  "framework": "static",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
